@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LS(LC(LA(LGUI)))"
+		],
+		"description": "LS(LC(LA(LGUI)))",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
